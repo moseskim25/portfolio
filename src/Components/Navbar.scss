@@ -1,0 +1,28 @@
+.navbar-container {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  height: 77px;
+  position: fixed;
+  z-index: 1;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 600px;
+  font-size: 25px;
+  color: white;
+  font-weight: 200;
+
+  p {
+    cursor: pointer;
+  }
+
+  .selected {
+    color: #ffb015;
+  }
+}

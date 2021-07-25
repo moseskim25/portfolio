@@ -1,0 +1,28 @@
+.about-me-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-top: 25px;
+  font-size: 25px;
+  padding: 0 250px;
+
+  // h1 {
+
+  // }
+
+  img {
+    height: 350px;
+    padding-top: 25px;
+  }
+
+  .about-me {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .about-me-paragraph {
+    padding-left: 25px;
+  }
+}
