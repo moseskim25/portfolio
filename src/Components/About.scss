@@ -7,10 +7,11 @@
   margin-top: 25px;
   font-size: 25px;
   padding: 0 250px;
+  height: 100vh;
 
-  // h1 {
-
-  // }
+  h1 {
+    border-bottom: 5px solid #ffb015;
+  }
 
   img {
     height: 350px;
@@ -24,5 +25,11 @@
 
   .about-me-paragraph {
     padding-left: 25px;
+    font-size: 25px;
+    letter-spacing: 0.1cm;
+
+    p:nth-child(3) {
+      color: #ffb015;
+    }
   }
 }

@@ -8,9 +8,11 @@ export default function About() {
       <div className='about-me'>
         <img src='https://res.cloudinary.com/dm4r202h4/image/upload/v1627091313/Profile_hnh8zx.jpg' alt='' />
         <div className='about-me-paragraph'>
-          <p>Hi there! Glad you found it onto my page! </p>
-          <p>I'm a full-stack web developer based out of Toronto. The reason I chose to pursue this is career is because whether I'm gardening, woodworking, or writing code, it brings me great satisfaction to build something from scratch and engage my creative talents.</p>
-          <p>You probably hear this all the time but I love problem solving. Of course, I do believe I'm good at it but more importantly, I LOVE doing it. I feel most engaged when I am stuck on a problem. Hours fly by and I am stuck to my chair. This is what first sparked my interest into coding and it still drives me to learn more every day.</p>
+          <p>I'm glad you found it onto my page!</p>
+          <p>I'm Moses Kim, a full-stack web developer based out of Toronto.</p>
+
+          <p>Why is web development important to me?</p>
+          <p>I love to build things! Whether I'm in the garden planting vegetables or in the garage building a new workbench, I love to create something from start to finish. Web development is another avenue for me to express myself and my talents and create things with unlimited potential!</p>
         </div>
       </div>
     </main>
