@@ -12,7 +12,7 @@ export default function About() {
           <p>I'm Moses Kim, a full-stack web developer based out of Toronto.</p>
 
           <p>Why is web development important to me?</p>
-          <p>I love to build things! Whether I'm in the garden planting vegetables or in the garage building a new workbench, I love to create something from start to finish. Web development is another avenue for me to express myself and my talents and create things with unlimited potential!</p>
+          <p>I love to build things! Whether I'm in the garden planting vegetables or in the garage building a new workbench, I love to create something from start to finish. Web development is another avenue for me to express myself and create things with unlimited potential!</p>
         </div>
       </div>
     </main>
